@@ -44,3 +44,9 @@ O script principal `Limpeza.py` executa as seguintes etapas estruturadas:
    ```bash
    git clone [https://github.com/DandiReis/Limpeza-Plotagem-Dados.git](https://github.com/DandiReis/Limpeza-Plotagem-Dados.git)
    cd Limpeza-Plotagem-Dados
+
+2. Instale as dependencias:]
+   pip install pandas numpy matplotlib seaborn plotly pycountry
+
+3. Execute o pipeline de limpeza:
+   python Limpeza.py
