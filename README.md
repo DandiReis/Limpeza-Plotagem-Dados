@@ -53,7 +53,8 @@ O script principal `Limpeza.py` executa as seguintes etapas estruturadas:
    pip install -r requirements.txt
 
 3. Execute o pipeline de limpeza:
-  - python Limpeza.py
+   ```bash
+   python Limpeza.py
 ---
 
 ## 🔗 Projeto de Visualização Relacionado
