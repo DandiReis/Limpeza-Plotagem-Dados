@@ -58,6 +58,6 @@ O script principal `Limpeza.py` executa as seguintes etapas estruturadas:
 ---
 
 ## 🔗 Projeto de Visualização Relacionado
+
  O arquivo de saída deste repositório alimenta diretamente a interface interativa de análise de dados. Você pode conferir o repositório do Dashboard aqui:    
-👉**[DashBoard-Salarios-de-TI](https://github.com/DandiReis/DashBoard-Salarios-de-TI)**
----
+👉 **[DashBoard-Salarios-de-TI](https://github.com/DandiReis/DashBoard-Salarios-de-TI)**
