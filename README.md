@@ -34,8 +34,11 @@ O script principal `Limpeza.py` executa as seguintes etapas estruturadas:
 
 - **Python** (Core do script de tratamento)
 - **Pandas** (Engenharia de features, manipulação de DataFrames e limpeza)
+- **NumPy** (Suporte a operações matemáticas e manipulação de arrays)
+- **Matplotlib & Seaborn** (Geração de gráficos estatísticos e análises exploratórias visuais)
+- **Plotly** (Renderização de mapas e componentes interativos de alta fidelidade)
+- **Pycountry** (Conversão inteligente de nomes de países para padrões internacionais ISO)
 - **Git/GitHub** (Versionamento de dados e controle de código)
-
 ---
 
 ## 🚀 Como Executar o Script Localmente
@@ -45,12 +48,16 @@ O script principal `Limpeza.py` executa as seguintes etapas estruturadas:
    git clone [https://github.com/DandiReis/Limpeza-Plotagem-Dados.git](https://github.com/DandiReis/Limpeza-Plotagem-Dados.git)
    cd Limpeza-Plotagem-Dados
 
-2. Instale as dependencias:]
-  - pip install pandas numpy matplotlib seaborn plotly pycountry
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
 
 3. Execute o pipeline de limpeza:
   - python Limpeza.py
+---
 
 🔗 Projeto de Visualização Relacionado
-O arquivo de saída deste repositório alimenta diretamente a interface interativa de análise de dados. Você pode conferir o repositório do Dashboard aqui:
-👉 DashBoard-Salarios-de-TI
+O arquivo de saída deste repositório alimenta diretamente a interface interativa de análise de dados.   
+Você pode conferir o repositório do Dashboard aqui:    
+👉 **[DashBoard-Salarios-de-TI](https://github.com/DandiReis/DashBoard-Salarios-de-TI)**
+---
